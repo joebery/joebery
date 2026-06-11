@@ -50,8 +50,8 @@ Comfortable across Python, C#, and JavaScript with experience in backend APIs, D
 
 <div align = center>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joebery&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180" />
-
 </div>
+
 ---
 
 ## 🚀 Projects
