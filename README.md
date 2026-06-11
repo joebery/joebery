@@ -2,7 +2,7 @@
 <div align="center">
   <img src="https://avatars.githubusercontent.com/u/94058481?v=4" width="120" style="border-radius: 50%;" />
   
-  <h1>Hey, I'm Joe Berry 👋</h1>
+  <h1>Hey, I'm Joe Bery 👋</h1>
   
   <p>First-Class BSc Cybersecurity & Networks · Building software that ships to production</p>
 
