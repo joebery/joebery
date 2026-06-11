@@ -7,7 +7,7 @@
   <p>First-Class BSc Cybersecurity & Networks · Building software that ships to production</p>
 
   [![GitHub](https://img.shields.io/badge/GitHub-joebery-181717?style=for-the-badge&logo=github)](https://github.com/joebery)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Joe%20Berry-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/josephbery/)]
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Joe%20Bery-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/josephbery/)]
 </div>
 
 ---
