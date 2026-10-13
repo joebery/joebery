@@ -42,7 +42,7 @@ Comfortable across Python, C#, and JavaScript with experience in backend APIs, D
 |---|---|---|---|
 | [**ReadmeAI**](https://github.com/joebery/readmeai) | AI-powered README generator — scans your repo, estimates cost, generates and pushes a professional README directly to GitHub | FastAPI · PostgreSQL · Redis · OpenAI · Next.js · Docker | 🟢 Live |
 | [**Cable Harness Generator**](https://github.com/joebery/cable-harness-generator) | Parametric 1:1 scale technical PDF drawings of fibre optic breakout assemblies — tiled A4 output with precise geometric math | Python · ReportLab | 🟢 Production |
-| [**CSV Processing App**](https://github.com/joebery/csv-processor) | Directory-watching CSV to PDF converter integrated into Leviton's Power BI pipeline | C# · .NET | 🟢 Production |
+| [**CSV Processing App**](https://github.com/joebery/csv-processor) | Directory-watching CSV to PDF converter integrated into previous work's Power BI pipeline | C# · .NET | 🟢 Production |
 
 </div>
 
